@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b47bf4c24abf14e4c9d01bcc2c6c61c1
+timeCreated: 1444318602
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46895
+  packageName: Fortress Gate
+  packageVersion: 1.0
+  assetPath: Assets/Fortress Gate_Free/Materials/Fortress_Gate_Free.mat
+  uploadId: 124298
